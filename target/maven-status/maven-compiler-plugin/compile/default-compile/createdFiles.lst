@@ -1,0 +1,9 @@
+com\wfy\service\impl\UserLoginServiceImpl.class
+com\wfy\test\UserTest02.class
+com\wfy\test\GetSessionBySessionFactory.class
+com\wfy\service\UserLoginService.class
+com\wfy\dao\UserMapper.class
+com\wfy\model\User.class
+com\wfy\test\UserTest.class
+com\wfy\test\UserTest03.class
+com\wfy\controller\LoginController.class
